@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "485974337510",
+    "firebase_url": "https://gym-tracker-ab4a6.firebaseio.com",
+    "project_id": "gym-tracker-ab4a6",
+    "storage_bucket": "gym-tracker-ab4a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485974337510:android:33bbfe70720f8df7",
+        "android_client_info": {
+          "package_name": "com.gymtracker.joelmason.gymtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485974337510-3f2rkpq6hs4vhjg4fgc0cau3ttr5acc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZVU08qkdDE0Q5aMRMdWEJXy3ZAkFqdBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
